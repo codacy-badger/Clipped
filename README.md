@@ -5,7 +5,7 @@
 
 ## What I learnd 
 
-> *  TypeScript
-> *  Google AMP
-> *  IDB
-> *  Share Target API
+>*    TypeScript
+>*    Google AMP
+>*    IDB
+>*    Share Target API
